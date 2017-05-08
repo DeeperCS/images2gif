@@ -1,2 +1,4 @@
 # images2gif
-using python to generate gif animation with images (PIL)
+Using python to generate gif animation with images (PIL)
+
+#### Tested under *Python2*
